@@ -1,0 +1,28 @@
+# 密钥和配置文件（绝对不能提交！）
+config.yaml
+*.env
+.env.*
+secrets/
+keys/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# 输出文件（可能包含敏感数据）
+output/
+*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# 系统
+.DS_Store
+Thumbs.db
