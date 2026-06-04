@@ -31,7 +31,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/YOUR_USERNAME/social-content-gen.git
+git clone https://github.com/witplay/social-content-gen.git
 cd social-content-gen
 
 # 安装依赖
@@ -167,7 +167,7 @@ python main.py --help
 - **专业版**: ¥99/月 或 ¥299/年
 - **企业版**: 联系定制
 
-[👉 立即购买专业版](https://gumroad.com/YOUR_PRODUCT)
+[👉 立即购买专业版](https://witplay.gumroad.com/l/social-content-gen)
 
 ## 📖 文档
 
