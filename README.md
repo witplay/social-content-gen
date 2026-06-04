@@ -5,6 +5,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/witplay/social-content-gen?style=social)](https://github.com/witplay/social-content-gen)
+[![Gumroad](https://img.shields.io/badge/Gumroad-Live-brightgreen)](https://witplay.gumroad.com/l/social-content-gen)
 
 ## ✨ 功能特性
 
