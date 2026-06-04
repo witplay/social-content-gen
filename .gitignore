@@ -5,3 +5,7 @@ __pycache__/
 output/
 .venv/
 docs/zhihu-article.md
+
+docs/gumroad-product-page.md
+docs/zhihu-article-draft.md
+docs/marketing/
