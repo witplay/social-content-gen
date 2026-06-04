@@ -1,11 +1,15 @@
-# 🚀 自媒体热点内容生成器
+# 🚀 自媒体热点内容生成器 — AI Social Content Generator
 
 > 自动追踪全网热点，一键生成多平台适配内容，让自媒体创作效率提升10倍。
+> Auto-scan trending topics across 11 platforms → Generate platform-specific content in minutes → Publish everywhere.
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/witplay/social-content-gen?style=social)](https://github.com/witplay/social-content-gen)
 [![Gumroad](https://img.shields.io/badge/Gumroad-Live-brightgreen)](https://witplay.gumroad.com/l/social-content-gen)
+
+## 🏷️ Keywords
+AI内容生成 | 自媒体工具 | 热点追踪 | 自动写作 | AI writing tool | content automation | trend scanner | 多平台内容生成 | social media automation | AI agent skill | 自媒体运营 | 内容创作工具
 
 ## ✨ 功能特性
 
