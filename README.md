@@ -186,9 +186,18 @@ python main.py --help
 - [API文档](docs/api.md)
 - [常见问题](docs/faq.md)
 
+## 💬 社区讨论
+
+- [📊 实测工作流分享](https://github.com/witplay/social-content-gen/issues/1) — 一天生成30+篇内容的完整流程
+- [🤝 寻找贡献者](https://github.com/witplay/social-content-gen/issues/2) — 一起把这个工具做得更好
+
 ## 🤝 贡献
 
-欢迎提交Issue和PR！
+欢迎提交Issue和PR！当前需要的贡献：
+
+- 🔌 更多热点源（Twitter trending, Google Trends）
+- 📝 更多平台模板（微博、头条号、百家号）
+- 🚀 自动化发布功能
 
 ## 📄 License
 
@@ -196,6 +205,4 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 ## 💬 联系方式
 
-- 微信: YOUR_WECHAT
-- 邮箱: YOUR_EMAIL
-- GitHub Issues: [提问/建议](https://github.com/YOUR_USERNAME/social-content-gen/issues)
+- GitHub Issues: [提问/建议](https://github.com/witplay/social-content-gen/issues)
