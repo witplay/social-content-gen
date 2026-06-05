@@ -8,6 +8,10 @@
 [![Stars](https://img.shields.io/github/stars/witplay/social-content-gen?style=social)](https://github.com/witplay/social-content-gen)
 [![Gumroad](https://img.shields.io/badge/Gumroad-Live-brightgreen)](https://witplay.gumroad.com/l/social-content-gen)
 
+## 💰 Get Pro — $19 Launch Price (was $49)
+
+**[👉 Buy on Gumroad](https://witplay.gumroad.com/l/social-content-gen)** — Unlimited trend scanning, 11+ platforms, scheduled auto-generation, analytics. Free version has 3 platforms + 10 topics/day.
+
 ## 🏷️ Keywords
 AI内容生成 | 自媒体工具 | 热点追踪 | 自动写作 | AI writing tool | content automation | trend scanner | 多平台内容生成 | social media automation | AI agent skill | 自媒体运营 | 内容创作工具
 
